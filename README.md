@@ -15,7 +15,7 @@ import CustomKeyboard from "react-native-custom-keyboard";
 
 // ...
 
-const result = await CustomKeyboard.multiply(3, 7);
+
 ```
 
 ## Contributing
